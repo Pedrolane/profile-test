@@ -1,0 +1,85 @@
+h1 {
+  font-size: 35px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+body {
+  background-color: rgb(235,235,235);
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  color: #2CDDC8;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 5px;
+  padding: 40px;
+  margin: 40px;
+  text-align: center;
+}
+
+
+#img-circle {
+  border-radius: 50%;
+}
+
+
+.btn-blue {
+  background-color: #4F7CAC;
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+
+p {
+  margin-bottom: 40px;
+}
+
+
+
+@media (max-width: 720px) {
+  .container {
+    width: 550px;
+  }
+}
+
+
+@media (max-width: 520px) {
+  .container {
+    width: 450px;
+  }
+}
+
+@media (max-width: 420px) {
+  .container {
+    width: 350px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
